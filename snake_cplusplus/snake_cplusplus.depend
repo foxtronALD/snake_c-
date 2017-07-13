@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499261934 source:c:\codeblocks\cb\snake_cplusplus\snake_1.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+
